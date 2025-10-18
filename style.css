@@ -1,0 +1,124 @@
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+.main{
+    display: flex;
+    height: 70vh;
+    width: 50vw;
+    border-radius: 20px;
+    background-color: white;
+}
+.box{
+   
+    height: 70vh;
+    width: 25vw;
+    border-radius: 20px;
+    background-color: rgb(104, 104, 247);
+    text-align: center;
+}
+.h1{
+    color: aliceblue;
+    font-size: 26px;
+    margin: 0;
+    padding: 30px;
+    font-weight: 100;
+}
+.one{
+    background-color: rgb(39, 39, 199);
+    border-radius: 50%;
+    width: 12vw;
+    height: 120px;
+    justify-self: center;
+    
+}
+.one h1{
+    margin: 0;
+    padding: 10px;
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+}
+.one h3{
+    margin: 0;
+    padding: 0;
+    color: gray;
+    text-align: center;
+    font-size: 18px;
+}
+.h11{
+    color: beige;
+    font-weight: 300;
+}
+h3{
+    color: rgb(82, 64, 64);
+    font-size: 20px;
+    margin: 20px;
+}
+.second h1{
+    margin-left: 20px;
+}
+.boxone{
+    height: 10%;
+    width: 20vw;
+   
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(246, 237, 239);
+    display: flex;
+    color: pink;
+}
+.two{
+    height: 10%;
+    width: 20vw;
+   
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(245, 220, 174);
+    display: flex;
+    color: orange;
+}
+.three{
+    height: 10%;
+    width: 20vw;
+  
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(168, 232, 168);
+    display: flex;
+    color: green;
+}
+.four{
+    height: 10%;
+    width: 20vw;
+   
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgb(207, 177, 207);
+    display: flex; 
+    color: purple;
+}
+button{
+    margin: 15px;
+    margin-left: 20px;
+    height: 10%;
+    width: 20vw;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+span{
+    width: 80%;
+    padding: 0;
+    margin: 0;
+    padding: 10px;
+    font-weight: bold;
+}
+.a,.b,.c,.d{
+    width: 20%;
+}
